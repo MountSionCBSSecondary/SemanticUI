@@ -22,4 +22,3 @@ User Friendly
 Cons:
 More code involved then Semantic
 More problem solving involved
-
